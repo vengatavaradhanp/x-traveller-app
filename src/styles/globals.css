@@ -95,3 +95,25 @@ a {
     color-scheme: dark;
   }
 }
+html, body, #root, .app-container {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+}
+
+.footer {
+  background-color: #a6d7ff;
+  padding: 5px 0;
+  text-align: center;
+}
