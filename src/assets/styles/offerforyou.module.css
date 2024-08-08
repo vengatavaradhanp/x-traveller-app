@@ -1,0 +1,26 @@
+/* 
+.bannerContainer {
+    position: relative;
+    width: 100%;
+    height: 100%; 
+  } */
+  
+  /* .centeredText {
+    position: absolute;
+    top: 46%;
+    left: 35%;
+    transform: translate(-30%, -50%);
+    text-align: center;
+    color: white; 
+    line-height:81.84px;
+ 
+    
+    
+  } */
+  .heading {
+    font-family: 'Nunito Sans', sans-serif;
+    color:black;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 45px;
+  }

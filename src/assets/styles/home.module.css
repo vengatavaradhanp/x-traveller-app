@@ -1,0 +1,5 @@
+.navbar_container {
+  display: flex;
+  align-items: center;
+  margin: auto 10px;
+}
